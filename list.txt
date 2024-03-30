@@ -1,5 +1,5 @@
-server1(win)    server2(win)     server3     anydesk      yashin
-
+server1    server2     server3     anydesk      yashin
+(win)       (win)
 
 ACURA       AUDI        BMW         CHEVY       CADILLAC
 BUICK       CHRYSLER    DODGE       FORD        GMC
@@ -20,6 +20,7 @@ so basically you wanted to create 3 different files
 
 Acura, Audi, BMW, Chevy, Cadillac, Buick, Chrysler, Dodge, Ford, GMC, Honda, Hummer, Hyundai, Infiniti, Isuzu, Jaguar, Jeep, Kia, Land Rover, Lexus, Lincoln, Mazda, Mercedes, Mercury, Mini, Mitsubishi, Nissan, Pontiac, Porsche, Volvo, Volkswagen, Toyota, Suzuki, Subaru, Scion, Saturn, Saab
 
+server1
 
 108.181.159.2:1098
 administrator
@@ -27,6 +28,7 @@ Scrapper!123
 
 -------------------
 
+server2
 204.12.245.21:1097
 administrator
 12QuuhO@IKX&li
