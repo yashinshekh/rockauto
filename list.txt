@@ -9,3 +9,27 @@ LINCOLN     MAZDA       MERCEDES    MERCURY     MINI
 MITSUBISHI  NISSAN      PONTIAC     PORSCHE     VOLVO
 VOLKSWAGEN  TOYOTA      SUZUKI      SUBARU      SCION
 SATURN      SAAB
+
+https://github.com/yashinshekh/rockauto.git
+
+so basically you wanted to create 3 different files
+
+1. with model and sub-folder structure and all the data as you showed in previous sample
+2. wordpress with simple product (no variation)
+3. wordpress with variation product
+
+Acura, Audi, BMW, Chevy, Cadillac, Buick, Chrysler, Dodge, Ford, GMC, Honda, Hummer, Hyundai, Infiniti, Isuzu, Jaguar, Jeep, Kia, Land Rover, Lexus, Lincoln, Mazda, Mercedes, Mercury, Mini, Mitsubishi, Nissan, Pontiac, Porsche, Volvo, Volkswagen, Toyota, Suzuki, Subaru, Scion, Saturn, Saab
+
+
+108.181.159.2:1098
+administrator
+Scrapper!123
+
+-------------------
+
+204.12.245.21:1097
+administrator
+12QuuhO@IKX&li
+
+anydesk : 915054009
+password: Fiverr!Script

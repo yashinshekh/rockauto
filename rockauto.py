@@ -317,10 +317,11 @@ class RockautoSpider(scrapy.Spider):
             productlink = sel.xpath('.//a[contains(.,"Info")]/@href').extract_first()
             part_position = sel.xpath('.//*[@class="appflag"]/following-sibling::text()').extract_first()
 
-            yield scrapy.Request(productlink,callback=self.getdata,meta={
-                'line':[make,makelink,year,yearlink,model,modellink,engine,enginelink,category,categorylink,sub_category,sub_categorylink,productlink],
-                'part_position':part_position
-            })
+            if productlink:
+                yield scrapy.Request(productlink,callback=self.getdata,meta={
+                    'line':[make,makelink,year,yearlink,model,modellink,engine,enginelink,category,categorylink,sub_category,sub_categorylink,productlink],
+                    'part_position':part_position
+                })
 
             #break
 
